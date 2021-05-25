@@ -1,0 +1,93 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+  }
+  .home-welcome {
+    margin-top: 0px;
+  }
+  .home-welcome-text{
+    background-image: url(slike/logo.jpeg);  
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1600px 800px;
+  }
+  .home-welcome-text h1{
+    text-align: center;
+    color: white;
+    font-size: 85px; 
+    padding-top: 110px;
+    font-weight: bold; 
+  }
+  .home-welcome-text h2{
+    text-align: center;
+    color: white;
+    font-size: 30px; 
+    font-weight: bold; 
+  }
+  .row{
+    display: flex;
+    
+  }
+  .js{
+    color: #010722;
+    margin-left: 25px;
+    font-size: 13px;
+    line-height: normal;
+    letter-spacing: 0.055em;
+    word-spacing: 2.5 pt;
+    line-height: 2;
+    font-family: "Times New Roman", Times, serif;
+   
+  }
+  .column-right{
+
+    width: 850px;
+    margin-left: 0px;
+    padding-left: 50px;
+    padding-right: 25px;
+    margin-right: 25px;
+    border-right: 1px solid #010722;
+   
+  }
+  .column-left{
+    float: left; 
+    padding-left:50px;
+    padding-top:30px;
+    border-left: 1px solid #010722;
+    margin-left: 25px;
+   
+  }
+  .info {
+    margin-top: 0px;
+  }
+  .info-text{
+    background-color: #;
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1600px 800px;
+  }
+  .info-text h1{
+    text-align: center;
+    color: rgb(19, 17, 17);
+    font-size: 85px; 
+    padding-top: 50px;
+    font-weight: bold; 
+    font-family: "Times New Roman", Times, serif;
+  }
+  .info-text h2{
+    text-align: center;
+    color:rgb(19, 17, 17);
+    font-size: 30px; 
+    font-weight: bold; 
+    font-family: "Times New Roman", Times, serif;
+  }
+  hr.h{
+    border-top: 2px solid #0f0f0f;
+  }
+
